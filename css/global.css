@@ -279,7 +279,16 @@ header div#title {
 /********Section dÃ©couvrez nos contenus*********/
 
 /* Test 3 */
+#contenus {
+    border-radius: 10px;
+    background: white;
+    top: -60px;
+}
 
+#contenus .titre{
+    text-align: center;
+    font-size:  36px;
+}
 
 
 
